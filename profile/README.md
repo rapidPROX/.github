@@ -1,4 +1,9 @@
-## Hi there 👋
+# rapidPROX
+
+## Cloud Native Infrastrucure Testing for Network Intensive Workloads
+
+The rapidPROX organization is dedicated to projects that provide tools and methods for testing Cloud infrastructure performance and validating capabilites for deploying services with SLAs requiring high performance packet processing (such as 5G). Test methodologies are required to support established network and telecoms industry specifications and evolving Cloud Native architectures. 
+
 
 <!--
 
