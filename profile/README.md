@@ -9,8 +9,13 @@ rapidPROX is dedicated to projects that provide tools and methods for testing Cl
 
 ** TBD **
 Contribution guidelines - how can the community get involved?
+
 Useful resources - where can the community find your docs? Is there anything else the community should know?
-[Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+[Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet)
+
+[Markdown for Github](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
 Fun facts - TBD
 
 -->
