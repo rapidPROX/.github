@@ -1,6 +1,6 @@
 # rapidPROX
 
-## Cloud Native Infrastrucure Verification and Analysis for Telecomm Workloads
+## Cloud Native Infrastructure Verification and Analysis for Telecomm Workloads
 
 rapidPROX projects develop tools and methods for testing and validating Cloud infrastructure performance KPIs and relevant SLA capabilites for deploying services requiring high performance packet processing (such as 5G core). Test methodologies support network and telecoms industry specifications that are evolving for Cloud Native architectures. 
 
